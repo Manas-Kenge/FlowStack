@@ -32,7 +32,7 @@ export const Footer = () => {
                 </div>
             </div>
             <div className='flex justify-between items-center flex-wrap text-center border-t border-gray-100 sm:px-16 p-3'>
-                Copyright © 2018 FlowStack Pvt. Ltd. All Rights Reserved.
+                Copyright © 2024 FlowStack Pvt. Ltd. All Rights Reserved.
             </div>
         </footer>
 
